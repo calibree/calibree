@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **iOS, Java, Devops, Python**
 
-- ⚡  ** Playing 'the game of life' ! **
+- ⚡  Playing 'the game of life' https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidfreeware.net%2Fdownload-com-baiels-gameoflife.html&psig=AOvVaw2NttwvrR7tYp83CbwB5LF_&ust=1624218268289000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMD30dm6pPECFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/76918936/122653824-01a34c00-d150-11eb-9555-28ef87c4f845.png)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
