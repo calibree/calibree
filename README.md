@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cansu</h1> <h3>A passionate developer from Istanbul</h3>
+<h1 >Hi 👋, I'm Cansu</h1> <h3>A passionate developer from Istanbul</h3>
 <h3 align="center">A passionate developer from Istanbul</h3>
 
 ---
