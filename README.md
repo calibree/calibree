@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning **iOS, Java, Devops, Python**
 
 - ⚡  Living the game of life :black_square_button: 
-- ![text](https://user-images.githubusercontent.com/76918936/122654127-d6b9f780-d151-11eb-9e69-a1831df7671d.png "x")
 
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
