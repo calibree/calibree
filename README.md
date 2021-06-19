@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS, Java, Devops, Python**
 
-- ⚡  Playing 'the game of life' :black_square_button:
+- ⚡  Playing 'the game of life' :black_square_button: ![text](https://user-images.githubusercontent.com/76918936/122654011-2c41d480-d151-11eb-9042-38f6458e90ba.png "x")
 
 
 
