@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently learning **iOS, Java, Devops, Python**
+- 🌱 I’m currently learning ** Java, Spring Boot, Vue, React, Fullstack**
 
-- ⚡  Living the game of life :black_square_button: 
+- ⚡  :black_square_button: 
 
 ---
 
