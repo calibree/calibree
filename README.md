@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱  ** Java, Spring Boot, Vue, React, Fullstack**
+- 🌱  ** Currently working as a Software Engineer, languages: Java, Spring Boot, Vue, React, Fullstack **
 
 - ⚡  :black_square_button: 
 
