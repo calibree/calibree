@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 I’m currently learning ** Java, Spring Boot, Vue, React, Fullstack**
+- 🌱  ** Java, Spring Boot, Vue, React, Fullstack**
 
 - ⚡  :black_square_button: 
 
